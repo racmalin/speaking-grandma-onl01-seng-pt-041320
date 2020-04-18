@@ -1,15 +1,5 @@
-# grandma == "Hard of Hearing"
+def speak_to_grandma
 
-
-# if grandma == "Hard of Hearing"
-# elsif "Hard of Hearing"
-#   puts "Huh? Speak up Sonny!"
-# elsif "shout"
-#   puts "No, not since 1938" 
-# else  
-#   puts "I love you too, Pumpkin." 
-
-# end
 speak_to_grandma("I LOVE YOU TOO PUMPKIN")
 
 if 'I LOVE YOU GRANDMA!'

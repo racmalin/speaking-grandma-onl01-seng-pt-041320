@@ -1,6 +1,6 @@
 def speak_to_grandma
 
-speak_to_grandma("I LOVE YOU TOO PUMPKIN")
+# speak_to_grandma("I LOVE YOU TOO PUMPKIN")
 
 if 'I LOVE YOU GRANDMA!'
   puts "I LOVE YOU TOO PUMPKIN!"
